@@ -9,9 +9,11 @@
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 </div> 
  
-<h3 style='left'>IDEs and Editors:</h3>
+<h3 style='left'>Ferramentas:</h3>
 <div style='left'>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-83818E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"/>
+<img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
 
 <div style="display: inline_block">
