@@ -27,4 +27,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YuriSilv&theme=blue-green" style="display: inline_block"/>
 </div>
 
-![Snake animation](https://github.com/iagoMAF/iagoMAF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YuriSilv/github-contribution-grid-snake.svg/blob/output/github-contribution-grid-snake.gif)
