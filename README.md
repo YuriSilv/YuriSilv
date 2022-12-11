@@ -23,8 +23,8 @@
   
 <div align="left" style="display: inline_block">
   <a href="https://github.com/YuriSilv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSilv&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YuriSilv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="display: inline_block"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSilv&layout=compact&langs_count=7&theme=blue-green" style="display: inline_block"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YuriSilv&theme=blue-green" style="display: inline_block"/>
 </div>
 
 ![Snake animation](https://github.com/iagoMAF/iagoMAF/blob/output/github-contribution-grid-snake.svg)
