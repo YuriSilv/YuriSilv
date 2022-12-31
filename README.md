@@ -14,6 +14,7 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-83818E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"/>
 <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+ <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 <div style="display: inline_block">
