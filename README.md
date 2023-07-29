@@ -1,6 +1,6 @@
-<h1> Hi :)</h1>
+<h1> Olá!</h1>
 
-<h3 style='left'>Languages:</h3>
+<h3 style='left'>Linguagens:</h3>
 <div style='left'>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -26,5 +26,3 @@
   <a href="https://github.com/YuriSilv">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSilv&layout=compact&langs_count=7&theme=blue-green" style="display: inline_block"/>
 </div>
-
-![Snake animation](https://github.com/YuriSilv/github-contribution-grid-snake.svg/blob/output/github-contribution-grid-snake.svg)
