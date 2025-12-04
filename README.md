@@ -20,9 +20,5 @@
 <div style="display: inline_block">
   <h2 >Contato</h2>
    <a href="https://www.linkedin.com/in/yuri-silvino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "yurisilvino54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div> 
-  
-<div align="left" style="display: inline_block">
-  <a href="https://github.com/YuriSilv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSilv&layout=compact&langs_count=7&theme=blue-green" style="display: inline_block"/>
-</div>
+   <a href = "yurisilvino54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div> 
